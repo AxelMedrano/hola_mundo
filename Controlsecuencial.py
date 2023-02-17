@@ -16,3 +16,4 @@ print("De acuerdo a nuestro algoritmo, tu pago debe de ser de:", ISR, "\n\n")
 
 print("El nombre de la persona encargada de realizar este algoritmo es Axel André Medrano Cano")
 print("La matrícula de la persona encargada de realizar este algoritmo es 2223028520")
+print(jaja)
